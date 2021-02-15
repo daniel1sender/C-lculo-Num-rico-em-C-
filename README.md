@@ -1,2 +1,2 @@
-# C-lculo-Num-rico-em-C-
+Calculo Numérico C++
 Curso/Matéria de Cálculo Numérico em C++
